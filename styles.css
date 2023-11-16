@@ -42,6 +42,10 @@ body {
     font-family: "Brush Script MT", sans-serif;
 }
 
+.head {
+    font-family: sans-serif;
+}
+
 .link {
     color: white;
 }
