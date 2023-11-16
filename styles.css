@@ -49,8 +49,9 @@ body {
 }
 
 .head {
-    font-family: sans-serif;
+    font-family: "Brush Script MT", sans-serif;
     text-decoration: underline;
+    font-weight: 450;
 }
 
 .link {
