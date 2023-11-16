@@ -1,6 +1,11 @@
 html {
-    background-color:rgb(209, 226, 240);
+    /* background-color:rgb(209, 226, 240); */
     
+}
+
+body {
+    background-image: url(./img/blackboard.jpg);
+    color: white;
 }
 
 #title {
@@ -35,4 +40,8 @@ html {
 
 .heading {
     font-family: "Brush Script MT", sans-serif;
+}
+
+.link {
+    color: white;
 }
