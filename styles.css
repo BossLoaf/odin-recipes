@@ -4,10 +4,9 @@ html {
 }
 
 #title {
-    font-size: 60px;
-    
+    font-size: 60px;  
     font-weight: 700;
-    font-family: "Brush Script MY", sans-serif;
+    font-family: "Brush Script MT", sans-serif;
     
 }
 
@@ -28,10 +27,12 @@ html {
     line-height: 20px;
 }
 
-.description {
-    font-size: 18px;
-}
 
 .text {
-    font-size: 16px;
+    font-size: 18px;
+    font-family: "Brush Script MT", sans-serif;
+}
+
+.heading {
+    font-family: "Brush Script MT", sans-serif;
 }
