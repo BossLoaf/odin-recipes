@@ -6,6 +6,9 @@ html {
 body {
     background-image: url(./img/blackboard.jpg);
     color: white;
+    margin-left: 350px;
+    margin-right: 350px;
+    text-align: center;
 }
 
 #title {
@@ -25,17 +28,18 @@ body {
 }
 
 .recipes {
-    font-size: 24px;
+    font-size: 30px;
 }
 
 .ingredients {
-    line-height: 20px;
+    line-height: 26px;
 }
 
 
 .text {
-    font-size: 18px;
+    font-size: 24px;
     font-family: sans-serif;
+    text-align: center;
 }
 
 .heading {
@@ -45,8 +49,17 @@ body {
 
 .head {
     font-family: sans-serif;
+    text-decoration: underline;
 }
 
 .link {
     color: white;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 28px;
 }
