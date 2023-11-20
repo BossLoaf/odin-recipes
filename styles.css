@@ -19,7 +19,7 @@ body {
 }
 
 .center {
-    text-align:center;
+    margin: auto;
 }
 
 .center.list {
@@ -66,4 +66,15 @@ h2 {
 
 h3 {
     font-size: 46px;
+}
+
+.button {
+    display: block;
+    margin: 10px auto;
+    padding: 15px;
+    font-size: 16px;
+}
+
+.page-link {
+    color: black;
 }
